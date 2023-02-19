@@ -1,0 +1,4 @@
+Makefile
+test.cpp
+*.o
+*.out
